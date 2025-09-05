@@ -2,7 +2,7 @@
   "name": "LoopingDemo",
   "projectId": "50b2de9a-8805-4fc0-875f-7a2d994d3a03",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "PartA.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[25.6.1]"
   },
@@ -45,8 +45,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "afe916e5-f7af-4283-9e9b-d546ad41103e",
+      "filePath": "PartA.xaml",
+      "uniqueId": "ba1750a5-2cb0-4a34-a276-65ef2b6d1eaa",
       "input": [],
       "output": []
     }
